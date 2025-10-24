@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/abhiikyaa/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/abhiikyaa/DSA/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/abhiikyaa/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhiikyaa/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/abhiikyaa/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/abhiikyaa/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhiikyaa/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
