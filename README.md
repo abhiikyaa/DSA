@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhiikyaa/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/abhiikyaa/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhiikyaa/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -30,6 +31,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhiikyaa/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhiikyaa/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/abhiikyaa/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -48,11 +50,13 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhiikyaa/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhiikyaa/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/abhiikyaa/DSA/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,4 +75,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhiikyaa/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abhiikyaa/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
