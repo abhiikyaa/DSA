@@ -20,10 +20,12 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/abhiikyaa/DSA/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/abhiikyaa/DSA/tree/master/0066-plus-one) |
 ## Array
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhiikyaa/DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/abhiikyaa/DSA/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/abhiikyaa/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhiikyaa/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
