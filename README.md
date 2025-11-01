@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/abhiikyaa/DSA/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/abhiikyaa/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/abhiikyaa/DSA/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/abhiikyaa/DSA/tree/master/0169-majority-element) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhiikyaa/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/abhiikyaa/DSA/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhiikyaa/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/abhiikyaa/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/abhiikyaa/DSA/tree/master/0148-sort-list) |
@@ -60,6 +62,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/abhiikyaa/DSA/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/abhiikyaa/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/abhiikyaa/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/0349-intersection-of-two-arrays) |
