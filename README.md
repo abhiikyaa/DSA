@@ -29,6 +29,7 @@
 | [0016-3sum-closest](https://github.com/abhiikyaa/DSA/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/abhiikyaa/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/abhiikyaa/DSA/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/abhiikyaa/DSA/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/abhiikyaa/DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/abhiikyaa/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -123,4 +124,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhiikyaa/DSA/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/abhiikyaa/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/abhiikyaa/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
