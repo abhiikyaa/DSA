@@ -87,12 +87,14 @@
 | [0053-maximum-subarray](https://github.com/abhiikyaa/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/abhiikyaa/DSA/tree/master/0070-climbing-stairs) |
 | [0416-partition-equal-subset-sum](https://github.com/abhiikyaa/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/abhiikyaa/DSA/tree/master/0516-longest-palindromic-subsequence) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhiikyaa/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/abhiikyaa/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhiikyaa/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0516-longest-palindromic-subsequence](https://github.com/abhiikyaa/DSA/tree/master/0516-longest-palindromic-subsequence) |
 ## Simulation
 |  |
 | ------- |
