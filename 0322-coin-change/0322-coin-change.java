@@ -12,6 +12,10 @@ class Solution {
             }
                
         }   
-        return minCoinsDP[amount] == Integer.MAX_VALUE ? -1 : minCoinsDP[amount];   
+        if (minCoinsDP[amount] == Integer.MAX_VALUE) {
+            return -1;
+        }else {
+            return minCoinsDP[amount];
+        }    
     }
 }
