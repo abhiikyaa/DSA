@@ -37,6 +37,7 @@
 | [0219-contains-duplicate-ii](https://github.com/abhiikyaa/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/abhiikyaa/DSA/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/abhiikyaa/DSA/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/abhiikyaa/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0860-lemonade-change](https://github.com/abhiikyaa/DSA/tree/master/0860-lemonade-change) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhiikyaa/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -75,6 +76,7 @@
 | [0148-sort-list](https://github.com/abhiikyaa/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/abhiikyaa/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/abhiikyaa/DSA/tree/master/0414-third-maximum-number) |
 ## Divide and Conquer
 |  |
 | ------- |
