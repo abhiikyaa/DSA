@@ -173,6 +173,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/abhiikyaa/DSA/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/abhiikyaa/DSA/tree/master/0547-number-of-provinces) |
 ## Greedy
 |  |
 | ------- |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/abhiikyaa/DSA/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -195,4 +197,9 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abhiikyaa/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/abhiikyaa/DSA/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/abhiikyaa/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
