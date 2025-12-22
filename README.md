@@ -48,6 +48,7 @@
 | [0414-third-maximum-number](https://github.com/abhiikyaa/DSA/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/abhiikyaa/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/abhiikyaa/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/abhiikyaa/DSA/tree/master/0494-target-sum) |
 | [0860-lemonade-change](https://github.com/abhiikyaa/DSA/tree/master/0860-lemonade-change) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhiikyaa/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhiikyaa/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -110,6 +111,7 @@
 | [0322-coin-change](https://github.com/abhiikyaa/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/abhiikyaa/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/abhiikyaa/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/abhiikyaa/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhiikyaa/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/abhiikyaa/DSA/tree/master/1143-longest-common-subsequence) |
 ## String
@@ -164,6 +166,7 @@
 | ------- |
 | [0078-subsets](https://github.com/abhiikyaa/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhiikyaa/DSA/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/abhiikyaa/DSA/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
