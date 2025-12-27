@@ -67,6 +67,7 @@
 | [0219-contains-duplicate-ii](https://github.com/abhiikyaa/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhiikyaa/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhiikyaa/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhiikyaa/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
 |  |
@@ -128,6 +129,7 @@
 | [0005-longest-palindromic-substring](https://github.com/abhiikyaa/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/abhiikyaa/DSA/tree/master/0125-valid-palindrome) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhiikyaa/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhiikyaa/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhiikyaa/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/abhiikyaa/DSA/tree/master/1143-longest-common-subsequence) |
 ## Simulation
@@ -140,6 +142,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhiikyaa/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/abhiikyaa/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhiikyaa/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhiikyaa/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Counting
 |  |
 | ------- |
