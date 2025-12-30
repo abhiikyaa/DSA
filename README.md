@@ -154,6 +154,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhiikyaa/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhiikyaa/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/abhiikyaa/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhiikyaa/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -211,12 +212,14 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhiikyaa/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhiikyaa/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhiikyaa/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhiikyaa/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0547-number-of-provinces](https://github.com/abhiikyaa/DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -224,6 +227,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhiikyaa/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhiikyaa/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Union Find
 |  |
