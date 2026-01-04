@@ -55,6 +55,7 @@
 | [0494-target-sum](https://github.com/abhiikyaa/DSA/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhiikyaa/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0860-lemonade-change](https://github.com/abhiikyaa/DSA/tree/master/0860-lemonade-change) |
+| [0994-rotting-oranges](https://github.com/abhiikyaa/DSA/tree/master/0994-rotting-oranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhiikyaa/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhiikyaa/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
@@ -203,6 +204,7 @@
 | [0322-coin-change](https://github.com/abhiikyaa/DSA/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/abhiikyaa/DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/abhiikyaa/DSA/tree/master/0994-rotting-oranges) |
 ## Greedy
 |  |
 | ------- |
@@ -250,4 +252,8 @@
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhiikyaa/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/abhiikyaa/DSA/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
