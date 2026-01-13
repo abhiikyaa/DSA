@@ -207,6 +207,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/abhiikyaa/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/abhiikyaa/DSA/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/abhiikyaa/DSA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -224,6 +225,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/abhiikyaa/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/abhiikyaa/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhiikyaa/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhiikyaa/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -233,6 +235,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/abhiikyaa/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/abhiikyaa/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhiikyaa/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhiikyaa/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0547-number-of-provinces](https://github.com/abhiikyaa/DSA/tree/master/0547-number-of-provinces) |
@@ -243,6 +246,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/abhiikyaa/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/abhiikyaa/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhiikyaa/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhiikyaa/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
