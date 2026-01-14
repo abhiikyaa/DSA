@@ -274,4 +274,8 @@
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/abhiikyaa/DSA/tree/master/0994-rotting-oranges) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/abhiikyaa/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
