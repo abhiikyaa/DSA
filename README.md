@@ -59,6 +59,7 @@
 | [0494-target-sum](https://github.com/abhiikyaa/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/abhiikyaa/DSA/tree/master/0518-coin-change-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhiikyaa/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0746-min-cost-climbing-stairs](https://github.com/abhiikyaa/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/abhiikyaa/DSA/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/abhiikyaa/DSA/tree/master/0994-rotting-oranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhiikyaa/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -136,6 +137,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/abhiikyaa/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/abhiikyaa/DSA/tree/master/0518-coin-change-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhiikyaa/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0746-min-cost-climbing-stairs](https://github.com/abhiikyaa/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/abhiikyaa/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/abhiikyaa/DSA/tree/master/1143-longest-common-subsequence) |
 ## String
