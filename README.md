@@ -160,6 +160,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/abhiikyaa/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/abhiikyaa/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1143-longest-common-subsequence](https://github.com/abhiikyaa/DSA/tree/master/1143-longest-common-subsequence) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhiikyaa/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Simulation
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [0219-contains-duplicate-ii](https://github.com/abhiikyaa/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhiikyaa/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhiikyaa/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhiikyaa/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Counting
 |  |
 | ------- |
