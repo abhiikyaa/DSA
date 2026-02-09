@@ -264,6 +264,7 @@
 | [0617-merge-two-binary-trees](https://github.com/abhiikyaa/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/abhiikyaa/DSA/tree/master/0994-rotting-oranges) |
+| [1971-find-if-path-exists-in-graph](https://github.com/abhiikyaa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Greedy
 |  |
 | ------- |
@@ -302,6 +303,7 @@
 | [0547-number-of-provinces](https://github.com/abhiikyaa/DSA/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/abhiikyaa/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/abhiikyaa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -354,8 +356,10 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/abhiikyaa/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhiikyaa/DSA/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/abhiikyaa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/abhiikyaa/DSA/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/abhiikyaa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
