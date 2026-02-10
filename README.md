@@ -349,6 +349,7 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/abhiikyaa/DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/abhiikyaa/DSA/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/abhiikyaa/DSA/tree/master/0620-not-boring-movies) |
+| [1045-customers-who-bought-all-products](https://github.com/abhiikyaa/DSA/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/abhiikyaa/DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1683-invalid-tweets](https://github.com/abhiikyaa/DSA/tree/master/1683-invalid-tweets) |
 ## Combinatorics
