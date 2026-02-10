@@ -345,6 +345,7 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/abhiikyaa/DSA/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/abhiikyaa/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/abhiikyaa/DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1683-invalid-tweets](https://github.com/abhiikyaa/DSA/tree/master/1683-invalid-tweets) |
 ## Combinatorics
 |  |
