@@ -8,23 +8,18 @@ class Solution {
             result.get(edge[0]).add(edge[1]);
             result.get(edge[1]).add(edge[0]);
         }
-        return bfs(source , destination, result);
+        boolean[] visited = new boolean[n];
+        return dfs(source , destination, result, visited);
     }
-    public boolean bfs(int src, int dest, ArrayList<ArrayList<Integer>> adj){
-        boolean[] visited = new boolean[adj.size()];
-        visited[src] = true;
-        Queue < Integer> q = new LinkedList<>();
-        q.add(src);
-
-        while(!q.isEmpty()){
-            int node = q.poll();
-            if(node == dest){
-                return true;
-            }
-            for(int nbr : adj.get(node)){
-                if(visited[nbr] == false){
-                    visited[nbr] = true;
-                    q.add(nbr);
+    public boolean dfs(int node, int dest, ArrayList<ArrayList<Integer>> adj,boolean[] visited){
+        if(node == dest){
+            return true;
+        }
+        visited[node] = true;
+        for(int nbr : adj.get(node)){
+            if(visited[nbr] == false){
+                if(dfs(nbr, dest, adj, visited)){
+                    return true;
                 }
             }
         }
