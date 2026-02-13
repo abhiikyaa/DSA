@@ -1,42 +1,53 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
-        if(grid == null || grid.length == 0) return -1;
+        int n = grid.length;
+        int m = grid[0].length;
+        int freshorange = 0;
+        int time = 0;
 
-        int r  = grid.length;
-        int c = grid[0].length;
-        int[][] t = new int [r][c];
-        for(int i = 0; i < r; i++){
-            Arrays.fill(t[i], Integer.MAX_VALUE);
-        }
+        Queue<int[]> q = new LinkedList<>();
 
-        for(int i = 0; i < r; i++){
-            for(int j = 0; j < c; j++){
-                if(grid[i][j] == 2){
-                    dfs(grid, t , i, j , 0);
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < m; j++){
+                if(grid[i] [j] == 2){
+                    q.add(new int[]{i, j , 0});
                 }
+                if(grid[i] [j] == 1){
+                    freshorange++;
+                }
+
             }
         }
-        int totaltime = 0;
-        for(int i = 0; i < r; i++){
-            for(int j = 0; j< c; j++){
-                if(grid[i][j] == 1){
-                    if(t[i][j] == Integer.MAX_VALUE){
-                        return -1;
+        if(freshorange == 0) return 0;
+        int[][] dr = {{0,-1}, {-1,0}, {0,1}, {1,0}};
+
+        while(!q.isEmpty()){
+            int qsize = q.size();
+            boolean rotted = false;
+            for (int k = 0; k < qsize; k++){
+                int[] curr = q.poll();
+                int r = curr[0];
+                int c = curr[1];
+
+                for(int i = 0; i < 4; i++){
+                    int nr = r + dr[i][0];
+                    int nc = c + dr[i][1];
+
+                    if(nr >= 0 && nr < n && nc >= 0 && nc < m && grid[nr][nc] == 1){
+                        grid[nr][nc] = 2;
+                        freshorange--;
+                        q.add(new int[]{nr,nc});
+                        rotted = true;
                     }
-                    totaltime = Math.max(totaltime, t[i][j]);
                 }
             }
+            if (rotted) time++;
         }
-        return totaltime;
-    }
-    private void dfs(int[][] grid, int[][] t, int i, int j, int currenttime){
-        if(i < 0 || i >= grid.length || j < 0 || j >= grid[0].length || grid[i][j] == 0 || currenttime >= t[i][j]){
-            return;
+        if (freshorange == 0) {
+            return time;
+        }else{
+            return -1;
         }
-        t[i][j] = currenttime;
-        dfs(grid, t , i-1, j, currenttime + 1);
-        dfs(grid, t , i+1, j, currenttime + 1);
-        dfs(grid, t , i, j-1, currenttime + 1);
-        dfs(grid, t , i, j+1, currenttime + 1);
+
     }
 }
