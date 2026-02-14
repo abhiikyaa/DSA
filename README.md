@@ -76,6 +76,7 @@
 | [0994-rotting-oranges](https://github.com/abhiikyaa/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhiikyaa/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/abhiikyaa/DSA/tree/master/1020-number-of-enclaves) |
+| [1162-as-far-from-land-as-possible](https://github.com/abhiikyaa/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/abhiikyaa/DSA/tree/master/1254-number-of-closed-islands) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/abhiikyaa/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/abhiikyaa/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -169,6 +170,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/abhiikyaa/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/abhiikyaa/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/abhiikyaa/DSA/tree/master/1143-longest-common-subsequence) |
+| [1162-as-far-from-land-as-possible](https://github.com/abhiikyaa/DSA/tree/master/1162-as-far-from-land-as-possible) |
 ## String
 |  |
 | ------- |
@@ -280,6 +282,7 @@
 | [0841-keys-and-rooms](https://github.com/abhiikyaa/DSA/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/abhiikyaa/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/abhiikyaa/DSA/tree/master/1020-number-of-enclaves) |
+| [1162-as-far-from-land-as-possible](https://github.com/abhiikyaa/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/abhiikyaa/DSA/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/abhiikyaa/DSA/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhiikyaa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -370,6 +373,7 @@
 | [0733-flood-fill](https://github.com/abhiikyaa/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/abhiikyaa/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/abhiikyaa/DSA/tree/master/1020-number-of-enclaves) |
+| [1162-as-far-from-land-as-possible](https://github.com/abhiikyaa/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/abhiikyaa/DSA/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/abhiikyaa/DSA/tree/master/1905-count-sub-islands) |
 ## Database
