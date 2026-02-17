@@ -417,6 +417,7 @@
 | [1045-customers-who-bought-all-products](https://github.com/abhiikyaa/DSA/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/abhiikyaa/DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1683-invalid-tweets](https://github.com/abhiikyaa/DSA/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/abhiikyaa/DSA/tree/master/1693-daily-leads-and-partners) |
 ## Combinatorics
 |  |
 | ------- |
