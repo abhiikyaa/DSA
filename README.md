@@ -41,6 +41,7 @@
 | [0056-merge-intervals](https://github.com/abhiikyaa/DSA/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/abhiikyaa/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/abhiikyaa/DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/abhiikyaa/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/abhiikyaa/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhiikyaa/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhiikyaa/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -97,6 +98,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhiikyaa/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhiikyaa/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/abhiikyaa/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/abhiikyaa/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/abhiikyaa/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhiikyaa/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -390,6 +392,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/abhiikyaa/DSA/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/abhiikyaa/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/abhiikyaa/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhiikyaa/DSA/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhiikyaa/DSA/tree/master/0417-pacific-atlantic-water-flow) |
