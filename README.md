@@ -428,6 +428,7 @@
 | [1683-invalid-tweets](https://github.com/abhiikyaa/DSA/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/abhiikyaa/DSA/tree/master/1693-daily-leads-and-partners) |
 | [1873-calculate-special-bonus](https://github.com/abhiikyaa/DSA/tree/master/1873-calculate-special-bonus) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/abhiikyaa/DSA/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Combinatorics
 |  |
 | ------- |
