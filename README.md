@@ -312,6 +312,7 @@
 | [1020-number-of-enclaves](https://github.com/abhiikyaa/DSA/tree/master/1020-number-of-enclaves) |
 | [1162-as-far-from-land-as-possible](https://github.com/abhiikyaa/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/abhiikyaa/DSA/tree/master/1254-number-of-closed-islands) |
+| [1462-course-schedule-iv](https://github.com/abhiikyaa/DSA/tree/master/1462-course-schedule-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/abhiikyaa/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/abhiikyaa/DSA/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/abhiikyaa/DSA/tree/master/1905-count-sub-islands) |
@@ -367,6 +368,7 @@
 | [0934-shortest-bridge](https://github.com/abhiikyaa/DSA/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/abhiikyaa/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/abhiikyaa/DSA/tree/master/1254-number-of-closed-islands) |
+| [1462-course-schedule-iv](https://github.com/abhiikyaa/DSA/tree/master/1462-course-schedule-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/abhiikyaa/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/abhiikyaa/DSA/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhiikyaa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -464,6 +466,7 @@
 | [0802-find-eventual-safe-states](https://github.com/abhiikyaa/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/abhiikyaa/DSA/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/abhiikyaa/DSA/tree/master/0997-find-the-town-judge) |
+| [1462-course-schedule-iv](https://github.com/abhiikyaa/DSA/tree/master/1462-course-schedule-iv) |
 | [1791-find-center-of-star-graph](https://github.com/abhiikyaa/DSA/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhiikyaa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Trie
@@ -476,6 +479,7 @@
 | [0207-course-schedule](https://github.com/abhiikyaa/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhiikyaa/DSA/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/abhiikyaa/DSA/tree/master/0802-find-eventual-safe-states) |
+| [1462-course-schedule-iv](https://github.com/abhiikyaa/DSA/tree/master/1462-course-schedule-iv) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
