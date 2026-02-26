@@ -190,6 +190,7 @@
 | [0542-01-matrix](https://github.com/abhiikyaa/DSA/tree/master/0542-01-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhiikyaa/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhiikyaa/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhiikyaa/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/abhiikyaa/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/abhiikyaa/DSA/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/abhiikyaa/DSA/tree/master/1162-as-far-from-land-as-possible) |
@@ -315,6 +316,7 @@
 | [0743-network-delay-time](https://github.com/abhiikyaa/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/abhiikyaa/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/abhiikyaa/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhiikyaa/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/abhiikyaa/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/abhiikyaa/DSA/tree/master/0841-keys-and-rooms) |
 | [0934-shortest-bridge](https://github.com/abhiikyaa/DSA/tree/master/0934-shortest-bridge) |
@@ -377,6 +379,7 @@
 | [0743-network-delay-time](https://github.com/abhiikyaa/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/abhiikyaa/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/abhiikyaa/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhiikyaa/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/abhiikyaa/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/abhiikyaa/DSA/tree/master/0841-keys-and-rooms) |
 | [0934-shortest-bridge](https://github.com/abhiikyaa/DSA/tree/master/0934-shortest-bridge) |
@@ -487,6 +490,7 @@
 | [0547-number-of-provinces](https://github.com/abhiikyaa/DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/abhiikyaa/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/abhiikyaa/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhiikyaa/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/abhiikyaa/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/abhiikyaa/DSA/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/abhiikyaa/DSA/tree/master/0997-find-the-town-judge) |
@@ -511,10 +515,12 @@
 | [0621-task-scheduler](https://github.com/abhiikyaa/DSA/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/abhiikyaa/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/abhiikyaa/DSA/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhiikyaa/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/abhiikyaa/DSA/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/abhiikyaa/DSA/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhiikyaa/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/abhiikyaa/DSA/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
