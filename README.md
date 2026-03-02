@@ -461,6 +461,7 @@
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/abhiikyaa/DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1193-monthly-transactions-i](https://github.com/abhiikyaa/DSA/tree/master/1193-monthly-transactions-i) |
 | [1251-average-selling-price](https://github.com/abhiikyaa/DSA/tree/master/1251-average-selling-price) |
+| [1341-movie-rating](https://github.com/abhiikyaa/DSA/tree/master/1341-movie-rating) |
 | [1683-invalid-tweets](https://github.com/abhiikyaa/DSA/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/abhiikyaa/DSA/tree/master/1693-daily-leads-and-partners) |
 | [1873-calculate-special-bonus](https://github.com/abhiikyaa/DSA/tree/master/1873-calculate-special-bonus) |
