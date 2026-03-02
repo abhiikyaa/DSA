@@ -459,6 +459,7 @@
 | [0626-exchange-seats](https://github.com/abhiikyaa/DSA/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/abhiikyaa/DSA/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/abhiikyaa/DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1193-monthly-transactions-i](https://github.com/abhiikyaa/DSA/tree/master/1193-monthly-transactions-i) |
 | [1251-average-selling-price](https://github.com/abhiikyaa/DSA/tree/master/1251-average-selling-price) |
 | [1683-invalid-tweets](https://github.com/abhiikyaa/DSA/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/abhiikyaa/DSA/tree/master/1693-daily-leads-and-partners) |
