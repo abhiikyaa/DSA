@@ -98,6 +98,7 @@
 | [1765-map-of-highest-peak](https://github.com/abhiikyaa/DSA/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/abhiikyaa/DSA/tree/master/1905-count-sub-islands) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/abhiikyaa/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [1980-find-unique-binary-string](https://github.com/abhiikyaa/DSA/tree/master/1980-find-unique-binary-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhiikyaa/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhiikyaa/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
@@ -123,6 +124,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhiikyaa/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/abhiikyaa/DSA/tree/master/0997-find-the-town-judge) |
 | [1695-maximum-erasure-value](https://github.com/abhiikyaa/DSA/tree/master/1695-maximum-erasure-value) |
+| [1980-find-unique-binary-string](https://github.com/abhiikyaa/DSA/tree/master/1980-find-unique-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -218,6 +220,7 @@
 | [1143-longest-common-subsequence](https://github.com/abhiikyaa/DSA/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhiikyaa/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/abhiikyaa/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1980-find-unique-binary-string](https://github.com/abhiikyaa/DSA/tree/master/1980-find-unique-binary-string) |
 ## Simulation
 |  |
 | ------- |
@@ -278,6 +281,7 @@
 | [0090-subsets-ii](https://github.com/abhiikyaa/DSA/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/abhiikyaa/DSA/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhiikyaa/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1980-find-unique-binary-string](https://github.com/abhiikyaa/DSA/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
