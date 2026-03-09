@@ -1,24 +1,43 @@
 class Solution {
-    public int findCircleNum(int[][] isConnected) {
-        int v = isConnected.length;
-        int[] visited = new int[v];
-        int provinces = 0;
-
-        for (int i = 0; i < v; i++) {
-            if (visited[i] == 0) {
-                provinces++;
-                dfs(isConnected, visited, i);
+    class DSU{
+        int[] parent;
+        DSU(int n){
+            parent = new int[n];
+            for(int i = 0; i < n; i++){
+                parent[i] = i;
             }
         }
-        return provinces;
+        int find(int x){
+            if(parent[x]!=x){
+                parent[x] = find(parent[x]);
+            }
+            return parent[x];
+        }
+        void union(int a , int b){
+            int pa = find(a);
+            int pb = find(b);
+            if(pa == pb) return;
+            parent[pb] = pa; 
+        }
     }
+    public int findCircleNum(int[][] isConnected) {
+        int n = isConnected.length;
 
-    private void dfs(int[][] isConnected, int[] visited, int node) {
-        visited[node] = 1;
-        for (int neighbor = 0; neighbor < isConnected.length; neighbor++) {
-                if (isConnected[node][neighbor] == 1 && visited[neighbor] == 0) {
-                    dfs(isConnected, visited, neighbor);
+        DSU ans = new DSU(n);
+
+        for(int i = 0; i < n; i++){
+            for(int j = i+1; j < n; j++){
+                if(isConnected[i][j] == 1){
+                    ans.union(i,j);
                 }
             }
-    }
+        }
+        int count = 0;
+        for(int i = 0; i < n; i++){
+            if(ans.find(i) == i){
+                count++;
+            }
+        }
+        return count;
+    }    
 }
