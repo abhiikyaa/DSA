@@ -82,6 +82,7 @@
 | [0904-fruit-into-baskets](https://github.com/abhiikyaa/DSA/tree/master/0904-fruit-into-baskets) |
 | [0934-shortest-bridge](https://github.com/abhiikyaa/DSA/tree/master/0934-shortest-bridge) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhiikyaa/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0990-satisfiability-of-equality-equations](https://github.com/abhiikyaa/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/abhiikyaa/DSA/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/abhiikyaa/DSA/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhiikyaa/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -218,6 +219,7 @@
 | [0567-permutation-in-string](https://github.com/abhiikyaa/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/abhiikyaa/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/abhiikyaa/DSA/tree/master/0696-count-binary-substrings) |
+| [0990-satisfiability-of-equality-equations](https://github.com/abhiikyaa/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1143-longest-common-subsequence](https://github.com/abhiikyaa/DSA/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhiikyaa/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/abhiikyaa/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -500,6 +502,7 @@
 | [0695-max-area-of-island](https://github.com/abhiikyaa/DSA/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/abhiikyaa/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/abhiikyaa/DSA/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/abhiikyaa/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/abhiikyaa/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/abhiikyaa/DSA/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/abhiikyaa/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -517,6 +520,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhiikyaa/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/abhiikyaa/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/abhiikyaa/DSA/tree/master/0841-keys-and-rooms) |
+| [0990-satisfiability-of-equality-equations](https://github.com/abhiikyaa/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/abhiikyaa/DSA/tree/master/0997-find-the-town-judge) |
 | [1462-course-schedule-iv](https://github.com/abhiikyaa/DSA/tree/master/1462-course-schedule-iv) |
 | [1514-path-with-maximum-probability](https://github.com/abhiikyaa/DSA/tree/master/1514-path-with-maximum-probability) |
