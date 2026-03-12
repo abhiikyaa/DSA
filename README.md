@@ -90,6 +90,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhiikyaa/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/abhiikyaa/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/abhiikyaa/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/abhiikyaa/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/abhiikyaa/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/abhiikyaa/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1514-path-with-maximum-probability](https://github.com/abhiikyaa/DSA/tree/master/1514-path-with-maximum-probability) |
@@ -247,6 +248,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/abhiikyaa/DSA/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/abhiikyaa/DSA/tree/master/0621-task-scheduler) |
+| [1267-count-servers-that-communicate](https://github.com/abhiikyaa/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Stack
 |  |
 | ------- |
@@ -340,6 +342,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhiikyaa/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/abhiikyaa/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/abhiikyaa/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/abhiikyaa/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhiikyaa/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/abhiikyaa/DSA/tree/master/1462-course-schedule-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/abhiikyaa/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -405,6 +408,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/abhiikyaa/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/abhiikyaa/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/abhiikyaa/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/abhiikyaa/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhiikyaa/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/abhiikyaa/DSA/tree/master/1462-course-schedule-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/abhiikyaa/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -458,6 +462,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhiikyaa/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/abhiikyaa/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/abhiikyaa/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/abhiikyaa/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/abhiikyaa/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/abhiikyaa/DSA/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/abhiikyaa/DSA/tree/master/1905-count-sub-islands) |
@@ -511,6 +516,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/abhiikyaa/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/abhiikyaa/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/abhiikyaa/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/abhiikyaa/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhiikyaa/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/abhiikyaa/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/abhiikyaa/DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
