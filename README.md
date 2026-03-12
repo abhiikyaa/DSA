@@ -513,6 +513,7 @@
 | [1254-number-of-closed-islands](https://github.com/abhiikyaa/DSA/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhiikyaa/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/abhiikyaa/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/abhiikyaa/DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1905-count-sub-islands](https://github.com/abhiikyaa/DSA/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhiikyaa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -533,6 +534,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhiikyaa/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/abhiikyaa/DSA/tree/master/1462-course-schedule-iv) |
 | [1514-path-with-maximum-probability](https://github.com/abhiikyaa/DSA/tree/master/1514-path-with-maximum-probability) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/abhiikyaa/DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1791-find-center-of-star-graph](https://github.com/abhiikyaa/DSA/tree/master/1791-find-center-of-star-graph) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/abhiikyaa/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhiikyaa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
