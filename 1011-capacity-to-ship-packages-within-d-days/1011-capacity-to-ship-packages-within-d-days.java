@@ -4,7 +4,6 @@ class Solution {
         int e = 0;
         int ans = 0;
         for(int i = 0; i < weights.length; i++){
-            s = Math.max(weights[i],s);
             e += weights[i];
         }
 
@@ -25,6 +24,7 @@ class Solution {
         int d = 1;
         int l = 0;
         for(int w : weights){
+            if(w > c) return false;
             if(l + w > c){
                 d++;
                 l = 0;
