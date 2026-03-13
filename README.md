@@ -171,6 +171,7 @@
 | [0561-array-partition](https://github.com/abhiikyaa/DSA/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/abhiikyaa/DSA/tree/master/0621-task-scheduler) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/abhiikyaa/DSA/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [2092-find-all-people-with-secret](https://github.com/abhiikyaa/DSA/tree/master/2092-find-all-people-with-secret) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -353,6 +354,7 @@
 | [1905-count-sub-islands](https://github.com/abhiikyaa/DSA/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/abhiikyaa/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhiikyaa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2092-find-all-people-with-secret](https://github.com/abhiikyaa/DSA/tree/master/2092-find-all-people-with-secret) |
 ## Greedy
 |  |
 | ------- |
@@ -417,6 +419,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/abhiikyaa/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/abhiikyaa/DSA/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhiikyaa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2092-find-all-people-with-secret](https://github.com/abhiikyaa/DSA/tree/master/2092-find-all-people-with-secret) |
 ## Binary Tree
 |  |
 | ------- |
@@ -526,6 +529,7 @@
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/abhiikyaa/DSA/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1905-count-sub-islands](https://github.com/abhiikyaa/DSA/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhiikyaa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2092-find-all-people-with-secret](https://github.com/abhiikyaa/DSA/tree/master/2092-find-all-people-with-secret) |
 ## Graph Theory
 |  |
 | ------- |
@@ -549,6 +553,7 @@
 | [1791-find-center-of-star-graph](https://github.com/abhiikyaa/DSA/tree/master/1791-find-center-of-star-graph) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/abhiikyaa/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhiikyaa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2092-find-all-people-with-secret](https://github.com/abhiikyaa/DSA/tree/master/2092-find-all-people-with-secret) |
 ## Trie
 |  |
 | ------- |
