@@ -57,6 +57,7 @@
 | [0219-contains-duplicate-ii](https://github.com/abhiikyaa/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/abhiikyaa/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/abhiikyaa/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/abhiikyaa/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/abhiikyaa/DSA/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/abhiikyaa/DSA/tree/master/0414-third-maximum-number) |
@@ -186,6 +187,7 @@
 | [0053-maximum-subarray](https://github.com/abhiikyaa/DSA/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/abhiikyaa/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/abhiikyaa/DSA/tree/master/0169-majority-element) |
+| [0307-range-sum-query-mutable](https://github.com/abhiikyaa/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhiikyaa/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Dynamic Programming
 |  |
@@ -276,6 +278,7 @@
 | [0225-implement-stack-using-queues](https://github.com/abhiikyaa/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhiikyaa/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/abhiikyaa/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/abhiikyaa/DSA/tree/master/0307-range-sum-query-mutable) |
 ## Queue
 |  |
 | ------- |
@@ -591,9 +594,14 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/abhiikyaa/DSA/tree/master/0307-range-sum-query-mutable) |
 | [3477-fruits-into-baskets-ii](https://github.com/abhiikyaa/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/abhiikyaa/DSA/tree/master/3477-fruits-into-baskets-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/abhiikyaa/DSA/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
