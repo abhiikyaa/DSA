@@ -109,6 +109,7 @@
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/abhiikyaa/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1980-find-unique-binary-string](https://github.com/abhiikyaa/DSA/tree/master/1980-find-unique-binary-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhiikyaa/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhiikyaa/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhiikyaa/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3477-fruits-into-baskets-ii](https://github.com/abhiikyaa/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
@@ -323,6 +324,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/abhiikyaa/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/abhiikyaa/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/abhiikyaa/DSA/tree/master/1732-find-the-highest-altitude) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhiikyaa/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhiikyaa/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Breadth-First Search
 |  |
@@ -489,6 +491,7 @@
 | [1765-map-of-highest-peak](https://github.com/abhiikyaa/DSA/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/abhiikyaa/DSA/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/abhiikyaa/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhiikyaa/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Database
 |  |
 | ------- |
