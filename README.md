@@ -100,6 +100,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhiikyaa/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1514-path-with-maximum-probability](https://github.com/abhiikyaa/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/abhiikyaa/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhiikyaa/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1695-maximum-erasure-value](https://github.com/abhiikyaa/DSA/tree/master/1695-maximum-erasure-value) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/abhiikyaa/DSA/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1732-find-the-highest-altitude](https://github.com/abhiikyaa/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -219,6 +220,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/abhiikyaa/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/abhiikyaa/DSA/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/abhiikyaa/DSA/tree/master/1162-as-far-from-land-as-possible) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhiikyaa/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/abhiikyaa/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## String
 |  |
@@ -488,6 +490,7 @@
 | [1254-number-of-closed-islands](https://github.com/abhiikyaa/DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/abhiikyaa/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/abhiikyaa/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhiikyaa/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1765-map-of-highest-peak](https://github.com/abhiikyaa/DSA/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/abhiikyaa/DSA/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/abhiikyaa/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
