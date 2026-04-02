@@ -78,6 +78,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhiikyaa/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0724-find-pivot-index](https://github.com/abhiikyaa/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/abhiikyaa/DSA/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/abhiikyaa/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhiikyaa/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/abhiikyaa/DSA/tree/master/0778-swim-in-rising-water) |
 | [0860-lemonade-change](https://github.com/abhiikyaa/DSA/tree/master/0860-lemonade-change) |
@@ -132,6 +133,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhiikyaa/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/abhiikyaa/DSA/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/abhiikyaa/DSA/tree/master/0621-task-scheduler) |
+| [0740-delete-and-earn](https://github.com/abhiikyaa/DSA/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/abhiikyaa/DSA/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/abhiikyaa/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhiikyaa/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -215,6 +217,7 @@
 | [0518-coin-change-ii](https://github.com/abhiikyaa/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/abhiikyaa/DSA/tree/master/0542-01-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhiikyaa/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0740-delete-and-earn](https://github.com/abhiikyaa/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhiikyaa/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhiikyaa/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/abhiikyaa/DSA/tree/master/1137-n-th-tribonacci-number) |
