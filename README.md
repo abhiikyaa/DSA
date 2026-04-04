@@ -39,6 +39,7 @@
 | [0035-search-insert-position](https://github.com/abhiikyaa/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/abhiikyaa/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/abhiikyaa/DSA/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/abhiikyaa/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhiikyaa/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/abhiikyaa/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/abhiikyaa/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -200,6 +201,7 @@
 | [0005-longest-palindromic-substring](https://github.com/abhiikyaa/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/abhiikyaa/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/abhiikyaa/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/abhiikyaa/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhiikyaa/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/abhiikyaa/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhiikyaa/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -473,6 +475,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/abhiikyaa/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhiikyaa/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/abhiikyaa/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/abhiikyaa/DSA/tree/master/0130-surrounded-regions) |
