@@ -27,6 +27,7 @@
 | [0009-palindrome-number](https://github.com/abhiikyaa/DSA/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/abhiikyaa/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/abhiikyaa/DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/abhiikyaa/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/abhiikyaa/DSA/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/abhiikyaa/DSA/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/abhiikyaa/DSA/tree/master/0509-fibonacci-number) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abhiikyaa/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/abhiikyaa/DSA/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0778-swim-in-rising-water](https://github.com/abhiikyaa/DSA/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/abhiikyaa/DSA/tree/master/0875-koko-eating-bananas) |
