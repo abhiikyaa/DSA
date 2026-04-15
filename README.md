@@ -41,6 +41,7 @@
 | [0014-longest-common-prefix](https://github.com/abhiikyaa/DSA/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/abhiikyaa/DSA/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/abhiikyaa/DSA/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/abhiikyaa/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abhiikyaa/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/abhiikyaa/DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/abhiikyaa/DSA/tree/master/0063-unique-paths-ii) |
@@ -155,6 +156,7 @@
 | [0005-longest-palindromic-substring](https://github.com/abhiikyaa/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/abhiikyaa/DSA/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhiikyaa/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/abhiikyaa/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/abhiikyaa/DSA/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/abhiikyaa/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/abhiikyaa/DSA/tree/master/0148-sort-list) |
@@ -210,6 +212,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhiikyaa/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/abhiikyaa/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abhiikyaa/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/abhiikyaa/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/abhiikyaa/DSA/tree/master/0063-unique-paths-ii) |
@@ -291,6 +294,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhiikyaa/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhiikyaa/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhiikyaa/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhiikyaa/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -641,4 +645,8 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/abhiikyaa/DSA/tree/master/0307-range-sum-query-mutable) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/abhiikyaa/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
