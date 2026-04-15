@@ -20,6 +20,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/abhiikyaa/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/abhiikyaa/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/abhiikyaa/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/abhiikyaa/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/abhiikyaa/DSA/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
@@ -29,6 +30,7 @@
 | [0066-plus-one](https://github.com/abhiikyaa/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/abhiikyaa/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/abhiikyaa/DSA/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/abhiikyaa/DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/abhiikyaa/DSA/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/abhiikyaa/DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/abhiikyaa/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -332,6 +334,7 @@
 | ------- |
 | [0078-subsets](https://github.com/abhiikyaa/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhiikyaa/DSA/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/abhiikyaa/DSA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/abhiikyaa/DSA/tree/master/0338-counting-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhiikyaa/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Prefix Sum
