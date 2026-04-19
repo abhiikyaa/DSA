@@ -66,6 +66,7 @@
 | [0219-contains-duplicate-ii](https://github.com/abhiikyaa/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/abhiikyaa/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/abhiikyaa/DSA/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/abhiikyaa/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/abhiikyaa/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhiikyaa/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/abhiikyaa/DSA/tree/master/0307-range-sum-query-mutable) |
@@ -183,6 +184,7 @@
 | [0035-search-insert-position](https://github.com/abhiikyaa/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/abhiikyaa/DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhiikyaa/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/abhiikyaa/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0778-swim-in-rising-water](https://github.com/abhiikyaa/DSA/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/abhiikyaa/DSA/tree/master/0875-koko-eating-bananas) |
@@ -233,6 +235,7 @@
 | [0152-maximum-product-subarray](https://github.com/abhiikyaa/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/abhiikyaa/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhiikyaa/DSA/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/abhiikyaa/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhiikyaa/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/abhiikyaa/DSA/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/abhiikyaa/DSA/tree/master/0416-partition-equal-subset-sum) |
