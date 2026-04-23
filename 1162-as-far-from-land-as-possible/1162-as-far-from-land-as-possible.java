@@ -7,14 +7,14 @@ class Solution {
             this.col = col;
         }
     }
-    int dir[][] = {{0,1},{1,0},{-1,0},{0,-1}};
+    int[][] dir = {{0,1},{1,0},{0,-1},{-1,0}};
     public int maxDistance(int[][] grid) {
         int n = grid.length;
         int m = grid[0].length;
-        int dist = 0;
         int distance = 0;
-        Queue <Pair> q = new LinkedList<>();
+        int dist = 0;
 
+        Queue<Pair> q = new LinkedList<>();
         for(int i = 0; i < n; i++){
             for(int j = 0; j < m; j++){
                 if(grid[i][j] == 1){
@@ -22,7 +22,7 @@ class Solution {
                 }
             }
         }
-        if(q.isEmpty() || q.size() == n * m) return -1;
+        if(q.isEmpty() || q.size() == n*m) return -1;
 
         while(!q.isEmpty()){
             Pair curr = q.poll();
@@ -38,6 +38,7 @@ class Solution {
                 }
             }
         }
-        return dist = Math.max(dist, distance);
+        return dist = Math.max(dist,distance);
+        
     }
 }
