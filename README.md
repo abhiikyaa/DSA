@@ -103,6 +103,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/abhiikyaa/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhiikyaa/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/abhiikyaa/DSA/tree/master/1020-number-of-enclaves) |
+| [1049-last-stone-weight-ii](https://github.com/abhiikyaa/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhiikyaa/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/abhiikyaa/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/abhiikyaa/DSA/tree/master/1254-number-of-closed-islands) |
@@ -252,6 +253,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/abhiikyaa/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhiikyaa/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/abhiikyaa/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1049-last-stone-weight-ii](https://github.com/abhiikyaa/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/abhiikyaa/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/abhiikyaa/DSA/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/abhiikyaa/DSA/tree/master/1162-as-far-from-land-as-possible) |
