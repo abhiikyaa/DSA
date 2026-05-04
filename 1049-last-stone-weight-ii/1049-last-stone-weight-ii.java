@@ -1,22 +1,26 @@
 class Solution {
     public int lastStoneWeightII(int[] stones) {
-        int n = stones.length;
-        int sum = 0;
-        for (int stone : stones) sum += stone;
-
-        int target = sum /2;
-        boolean dp[] = new boolean[target+1];
-        dp[0] = true;
-
-        for (int stone : stones) {
-            for(int j = target ; j >= stone ; j--){
-                dp[j] = dp[j] || dp[j - stone];
+        int S=0;
+        for(int i: stones)
+            S+=i;
+        int S2=0;
+        int n=stones.length;
+        boolean[][] dp = new boolean[S/2 +1][n+1];
+        for(int i=0;i<=n;i++)
+        {
+            dp[0][i]=true;
+        }    
+        for(int i=1;i<=n;i++)
+        {
+            for(int s=1;s<=S/2;s++)
+            {
+                if(dp[s][i-1] || (s>=stones[i-1] &&dp[s-stones[i-1]][i-1]))
+                {
+                    dp[s][i]=true;
+                    S2=Math.max(s,S2);
+                }
             }
         }
-
-        for (int j = target; j >= 0; j--) {
-            if (dp[j]) return sum - 2 * j;
-        }
-        return 0;
+        return S-2*S2;
     }
 }
