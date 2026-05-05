@@ -50,6 +50,7 @@
 | [0064-minimum-path-sum](https://github.com/abhiikyaa/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/abhiikyaa/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/abhiikyaa/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/abhiikyaa/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/abhiikyaa/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhiikyaa/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/abhiikyaa/DSA/tree/master/0118-pascals-triangle) |
@@ -170,6 +171,7 @@
 | [0016-3sum-closest](https://github.com/abhiikyaa/DSA/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhiikyaa/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/abhiikyaa/DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/abhiikyaa/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/abhiikyaa/DSA/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/abhiikyaa/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/abhiikyaa/DSA/tree/master/0148-sort-list) |
@@ -206,6 +208,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/abhiikyaa/DSA/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/abhiikyaa/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/abhiikyaa/DSA/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/abhiikyaa/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/abhiikyaa/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/0349-intersection-of-two-arrays) |
