@@ -434,6 +434,7 @@
 | [1254-number-of-closed-islands](https://github.com/abhiikyaa/DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/abhiikyaa/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhiikyaa/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/abhiikyaa/DSA/tree/master/1462-course-schedule-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/abhiikyaa/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/abhiikyaa/DSA/tree/master/1765-map-of-highest-peak) |
@@ -466,6 +467,7 @@
 | [0404-sum-of-left-leaves](https://github.com/abhiikyaa/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/abhiikyaa/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -502,6 +504,7 @@
 | [1254-number-of-closed-islands](https://github.com/abhiikyaa/DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/abhiikyaa/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhiikyaa/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/abhiikyaa/DSA/tree/master/1462-course-schedule-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/abhiikyaa/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1905-count-sub-islands](https://github.com/abhiikyaa/DSA/tree/master/1905-count-sub-islands) |
@@ -522,6 +525,7 @@
 | [0404-sum-of-left-leaves](https://github.com/abhiikyaa/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/abhiikyaa/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
