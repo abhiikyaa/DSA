@@ -95,6 +95,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhiikyaa/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0724-find-pivot-index](https://github.com/abhiikyaa/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/abhiikyaa/DSA/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/abhiikyaa/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhiikyaa/DSA/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/abhiikyaa/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhiikyaa/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -303,6 +304,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/abhiikyaa/DSA/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhiikyaa/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3477-fruits-into-baskets-ii](https://github.com/abhiikyaa/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Sliding Window
@@ -336,6 +338,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/abhiikyaa/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/abhiikyaa/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhiikyaa/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0735-asteroid-collision](https://github.com/abhiikyaa/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhiikyaa/DSA/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
