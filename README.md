@@ -296,6 +296,7 @@
 | [0567-permutation-in-string](https://github.com/abhiikyaa/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/abhiikyaa/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/abhiikyaa/DSA/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/abhiikyaa/DSA/tree/master/0796-rotate-string) |
 | [0990-satisfiability-of-equality-equations](https://github.com/abhiikyaa/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1143-longest-common-subsequence](https://github.com/abhiikyaa/DSA/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhiikyaa/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -711,4 +712,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/abhiikyaa/DSA/tree/master/0239-sliding-window-maximum) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/abhiikyaa/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
