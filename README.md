@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/abhiikyaa/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/abhiikyaa/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/abhiikyaa/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/abhiikyaa/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/abhiikyaa/DSA/tree/master/0069-sqrtx) |
@@ -46,6 +47,7 @@
 | [0016-3sum-closest](https://github.com/abhiikyaa/DSA/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/abhiikyaa/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/abhiikyaa/DSA/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/abhiikyaa/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/abhiikyaa/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/abhiikyaa/DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/abhiikyaa/DSA/tree/master/0063-unique-paths-ii) |
@@ -547,6 +549,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abhiikyaa/DSA/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/abhiikyaa/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhiikyaa/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/abhiikyaa/DSA/tree/master/0073-set-matrix-zeroes) |
