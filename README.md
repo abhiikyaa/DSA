@@ -35,6 +35,7 @@
 | [0070-climbing-stairs](https://github.com/abhiikyaa/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/abhiikyaa/DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/abhiikyaa/DSA/tree/master/0263-ugly-number) |
+| [0343-integer-break](https://github.com/abhiikyaa/DSA/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/abhiikyaa/DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/abhiikyaa/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhiikyaa/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -259,6 +260,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/abhiikyaa/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/abhiikyaa/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/abhiikyaa/DSA/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/abhiikyaa/DSA/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/abhiikyaa/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/abhiikyaa/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/abhiikyaa/DSA/tree/master/0494-target-sum) |
