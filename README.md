@@ -145,6 +145,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/abhiikyaa/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abhiikyaa/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhiikyaa/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/abhiikyaa/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhiikyaa/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhiikyaa/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -176,6 +177,7 @@
 | [0997-find-the-town-judge](https://github.com/abhiikyaa/DSA/tree/master/0997-find-the-town-judge) |
 | [1695-maximum-erasure-value](https://github.com/abhiikyaa/DSA/tree/master/1695-maximum-erasure-value) |
 | [1980-find-unique-binary-string](https://github.com/abhiikyaa/DSA/tree/master/1980-find-unique-binary-string) |
+| [2540-minimum-common-value](https://github.com/abhiikyaa/DSA/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -201,6 +203,7 @@
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/abhiikyaa/DSA/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/abhiikyaa/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhiikyaa/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/abhiikyaa/DSA/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -217,6 +220,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhiikyaa/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhiikyaa/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2054-two-best-non-overlapping-events](https://github.com/abhiikyaa/DSA/tree/master/2054-two-best-non-overlapping-events) |
+| [2540-minimum-common-value](https://github.com/abhiikyaa/DSA/tree/master/2540-minimum-common-value) |
 | [3477-fruits-into-baskets-ii](https://github.com/abhiikyaa/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting
 |  |
