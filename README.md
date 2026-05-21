@@ -149,6 +149,7 @@
 | [2540-minimum-common-value](https://github.com/abhiikyaa/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhiikyaa/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/abhiikyaa/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhiikyaa/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhiikyaa/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3477-fruits-into-baskets-ii](https://github.com/abhiikyaa/DSA/tree/master/3477-fruits-into-baskets-ii) |
@@ -180,6 +181,7 @@
 | [1980-find-unique-binary-string](https://github.com/abhiikyaa/DSA/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/abhiikyaa/DSA/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/abhiikyaa/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -319,6 +321,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhiikyaa/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/abhiikyaa/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/abhiikyaa/DSA/tree/master/1980-find-unique-binary-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/abhiikyaa/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -686,6 +689,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhiikyaa/DSA/tree/master/0014-longest-common-prefix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/abhiikyaa/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Topological Sort
 |  |
 | ------- |
