@@ -47,6 +47,7 @@
 | [0014-longest-common-prefix](https://github.com/abhiikyaa/DSA/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/abhiikyaa/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhiikyaa/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/abhiikyaa/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhiikyaa/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/abhiikyaa/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/abhiikyaa/DSA/tree/master/0048-rotate-image) |
@@ -213,6 +214,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhiikyaa/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/abhiikyaa/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhiikyaa/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/abhiikyaa/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhiikyaa/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
