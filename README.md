@@ -100,6 +100,7 @@
 | [0621-task-scheduler](https://github.com/abhiikyaa/DSA/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/abhiikyaa/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/abhiikyaa/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/abhiikyaa/DSA/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/abhiikyaa/DSA/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhiikyaa/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0724-find-pivot-index](https://github.com/abhiikyaa/DSA/tree/master/0724-find-pivot-index) |
@@ -337,6 +338,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/abhiikyaa/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/abhiikyaa/DSA/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhiikyaa/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhiikyaa/DSA/tree/master/2553-separate-the-digits-in-an-array) |
@@ -372,6 +374,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/abhiikyaa/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/abhiikyaa/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhiikyaa/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/abhiikyaa/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/abhiikyaa/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhiikyaa/DSA/tree/master/0739-daily-temperatures) |
 ## Design
