@@ -23,6 +23,7 @@
 | [0203-remove-linked-list-elements](https://github.com/abhiikyaa/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/abhiikyaa/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/abhiikyaa/DSA/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/abhiikyaa/DSA/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/abhiikyaa/DSA/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
@@ -322,6 +323,7 @@
 | [0127-word-ladder](https://github.com/abhiikyaa/DSA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/abhiikyaa/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/abhiikyaa/DSA/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/abhiikyaa/DSA/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhiikyaa/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhiikyaa/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhiikyaa/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -377,6 +379,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/abhiikyaa/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/abhiikyaa/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhiikyaa/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/abhiikyaa/DSA/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/abhiikyaa/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/abhiikyaa/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhiikyaa/DSA/tree/master/0739-daily-temperatures) |
