@@ -330,6 +330,7 @@
 | [0680-valid-palindrome-ii](https://github.com/abhiikyaa/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/abhiikyaa/DSA/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/abhiikyaa/DSA/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhiikyaa/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0990-satisfiability-of-equality-equations](https://github.com/abhiikyaa/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1143-longest-common-subsequence](https://github.com/abhiikyaa/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhiikyaa/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -379,6 +380,7 @@
 | [0682-baseball-game](https://github.com/abhiikyaa/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/abhiikyaa/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhiikyaa/DSA/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhiikyaa/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
 | ------- |
@@ -497,6 +499,7 @@
 | [0621-task-scheduler](https://github.com/abhiikyaa/DSA/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/abhiikyaa/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/abhiikyaa/DSA/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhiikyaa/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abhiikyaa/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Tree
 |  |
