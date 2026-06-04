@@ -117,6 +117,7 @@
 | [0875-koko-eating-bananas](https://github.com/abhiikyaa/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/abhiikyaa/DSA/tree/master/0904-fruit-into-baskets) |
 | [0934-shortest-bridge](https://github.com/abhiikyaa/DSA/tree/master/0934-shortest-bridge) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/abhiikyaa/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhiikyaa/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0990-satisfiability-of-equality-equations](https://github.com/abhiikyaa/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/abhiikyaa/DSA/tree/master/0994-rotting-oranges) |
@@ -255,6 +256,7 @@
 | [0561-array-partition](https://github.com/abhiikyaa/DSA/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/abhiikyaa/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/abhiikyaa/DSA/tree/master/0767-reorganize-string) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/abhiikyaa/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/abhiikyaa/DSA/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhiikyaa/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/abhiikyaa/DSA/tree/master/2054-two-best-non-overlapping-events) |
@@ -352,6 +354,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/abhiikyaa/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/abhiikyaa/DSA/tree/master/0735-asteroid-collision) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/abhiikyaa/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhiikyaa/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhiikyaa/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/abhiikyaa/DSA/tree/master/3477-fruits-into-baskets-ii) |
@@ -407,6 +410,7 @@
 | [0225-implement-stack-using-queues](https://github.com/abhiikyaa/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhiikyaa/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/abhiikyaa/DSA/tree/master/0239-sliding-window-maximum) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/abhiikyaa/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Merge Sort
 |  |
 | ------- |
