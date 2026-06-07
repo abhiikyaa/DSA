@@ -1,44 +1,29 @@
 class Solution {
     public int rob(int[] nums) {
-        if(nums.length == 0){
-            return 0;
-        }
-        if(nums.length == 1){
-            return nums[0];
-        }
-        int[] dp1 = new int[nums.length + 1];
-        Arrays.fill(dp1 , -1);
-
-        int[] dp2 = new int[nums.length + 1];
-        Arrays.fill(dp2 , -1);
-
-        return Math.max(MaxAmt1(nums , nums.length-2, dp1) , MaxAmt2(nums , nums.length-1 , dp2));
+        int n = nums.length;
+        if(n==1) return nums[0];
+        int[] dp1 = new int[n];
+        int[] dp2 = new int[n];
+        Arrays.fill(dp1,-1);
+        Arrays.fill(dp2,-1);
+        int ans1 = solve1(nums,0,dp1);
+        int ans2 = solve2(nums,1,dp2);
+        return Math.max(ans1,ans2);
     }
-    public int MaxAmt1(int[] nums, int n, int[] dp1){
-        if(n < 0) return 0;
-
-        if(n == 0) return nums[0];
-
-        if(n == 1) return Math.max(nums[0] , nums[1]);
-
-        if(dp1[n] != -1) return dp1[n];
-
-        dp1[n] = Math.max(nums[n] + MaxAmt1(nums, n-2, dp1) , MaxAmt1(nums , n-1 , dp1));
-
-        return dp1[n];
+    public int solve1(int[] nums, int i, int[] dp1)
+    {
+        if(i > nums.length-2) return 0;
+        if(dp1[i] != -1) return dp1[i];
+        int take = nums[i] + solve1(nums,i+2,dp1);
+        int skip = solve1(nums,i+1,dp1);
+        return dp1[i] = Math.max(take,skip);
     }
-
-    public int MaxAmt2(int[] nums , int n , int[] dp2){
-        if(n < 1) return 0;
-
-        if(n == 1) return nums[1];
-
-        if(n == 2) return Math.max(nums[1] , nums[2]);
-
-        if(dp2[n] != -1) return dp2[n];
-
-        dp2[n] = Math.max(nums[n] + MaxAmt2(nums , n-2 , dp2) , MaxAmt2(nums , n -1, dp2));
-
-        return dp2[n];
+    public int solve2(int[] nums, int i, int[] dp2)
+    {
+        if(i >= nums.length) return 0;
+        if(dp2[i] != -1) return dp2[i];
+        int take = nums[i] + solve2(nums,i+2,dp2);
+        int skip = solve2(nums,i+1,dp2);
+        return dp2[i] = Math.max(take,skip);
     }
 }
