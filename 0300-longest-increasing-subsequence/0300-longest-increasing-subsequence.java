@@ -1,34 +1,22 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
         int n = nums.length;
-        ArrayList <Integer> ls = new ArrayList<>();
-        ls.add(nums[0]);
-        for(int i = 1; i < n; i++)
+        int[][] dp = new int[n][n+1];
+        for(int[] rows : dp){
+            Arrays.fill(rows,-1);
+        }
+        return solve(0,-1,nums,dp);
+    }
+    public int solve(int i, int prev, int[] nums, int[][] dp)
+    {
+        if(i == nums.length) return 0;
+        if(dp[i][prev+1] != -1) return dp[i][prev+1];
+        int take = 0;
+        int skip = solve(i+1,prev,nums,dp);
+        if(prev == -1 || nums[i] > nums[prev])
         {
-            if(ls.get(ls.size()-1) < nums[i])
-            {
-                ls.add(nums[i]);
-            }
-            else
-            {
-                int l = 0;
-                int h = ls.size() - 1;
-                while(l<=h)
-                {
-                    int mid = (h+l)/2;
-                    if(ls.get(mid) >= nums[i])
-                    {
-                        h = mid -1;
-                    }
-                    else
-                    {
-                        l = mid + 1;
-                    }
-                }
-                ls.set(l,nums[i]);
-            }
-
-        } 
-        return ls.size();
+            take = 1 + solve(i+1,i,nums,dp);
+        }
+        return dp[i][prev+1] = Math.max(take,skip);
     }
 }
