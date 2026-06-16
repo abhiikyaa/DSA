@@ -100,6 +100,7 @@
 | [0494-target-sum](https://github.com/abhiikyaa/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/abhiikyaa/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/abhiikyaa/DSA/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/abhiikyaa/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/abhiikyaa/DSA/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/abhiikyaa/DSA/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/abhiikyaa/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -182,6 +183,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/abhiikyaa/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhiikyaa/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhiikyaa/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/abhiikyaa/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/abhiikyaa/DSA/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/abhiikyaa/DSA/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/abhiikyaa/DSA/tree/master/0740-delete-and-earn) |
@@ -451,6 +453,7 @@
 | [0238-product-of-array-except-self](https://github.com/abhiikyaa/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/abhiikyaa/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhiikyaa/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/abhiikyaa/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/abhiikyaa/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhiikyaa/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhiikyaa/DSA/tree/master/1004-max-consecutive-ones-iii) |
