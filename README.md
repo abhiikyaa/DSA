@@ -119,6 +119,7 @@
 | [0860-lemonade-change](https://github.com/abhiikyaa/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/abhiikyaa/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/abhiikyaa/DSA/tree/master/0904-fruit-into-baskets) |
+| [0931-minimum-falling-path-sum](https://github.com/abhiikyaa/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/abhiikyaa/DSA/tree/master/0934-shortest-bridge) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/abhiikyaa/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhiikyaa/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -316,6 +317,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/abhiikyaa/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhiikyaa/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/abhiikyaa/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0931-minimum-falling-path-sum](https://github.com/abhiikyaa/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/abhiikyaa/DSA/tree/master/1035-uncrossed-lines) |
 | [1049-last-stone-weight-ii](https://github.com/abhiikyaa/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/abhiikyaa/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -642,6 +644,7 @@
 | [0695-max-area-of-island](https://github.com/abhiikyaa/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/abhiikyaa/DSA/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/abhiikyaa/DSA/tree/master/0778-swim-in-rising-water) |
+| [0931-minimum-falling-path-sum](https://github.com/abhiikyaa/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/abhiikyaa/DSA/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/abhiikyaa/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/abhiikyaa/DSA/tree/master/1020-number-of-enclaves) |
