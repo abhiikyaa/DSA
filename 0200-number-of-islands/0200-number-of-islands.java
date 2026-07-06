@@ -1,45 +1,58 @@
 class Solution {
-    class Pair{
+    class Pair
+    {
         int row;
         int col;
-        Pair(int row, int col){
+        Pair(int row, int col)
+        {
             this.row = row;
             this.col = col;
         }
     }
-    int direction[][] = {{-1,0},{1,0},{0,-1},{0,1}};
-    int count = 0;
-    public int numIslands(char[][] grid) {
+    static int[][] dir = {{0,1},{1,0},{-1,0},{0,-1}};
+    public int numIslands(char[][] grid) 
+    {
         int n = grid.length;
         int m = grid[0].length;
-        boolean[][] visited = new boolean[n][m];
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < m; j++){
-                if(grid[i][j] == '1' && visited[i][j] == false){
-                    count++;
-                    bfs(visited, grid, i, j , n , m);
+        boolean[][] vis = new boolean[n][m];
+        int c = 0;
+        for(int i = 0; i < n; i++)
+        {
+            for(int j = 0; j < m; j++)
+            {
+                if(grid[i][j] == '1' && !vis[i][j])
+                {
+                    c++;
+                    bfs(grid,vis,i,j,n,m);
                 }
             }
         }
-        return count;
+        return c;
     }
-    public void bfs(boolean[][] visited,char[][] grid, int currRow, int currCol, int tRow, int tCol){
-        Queue <Pair> q = new LinkedList<>();
-        q.add(new Pair(currRow, currCol));
-        visited[currRow][currCol] = true;
 
-        while(!q.isEmpty()){
+    public void bfs(char[][] grid,boolean[][] vis,int i, int j, int n, int m)
+    {
+        Queue<Pair> q = new LinkedList<>();
+        q.add(new Pair(i,j));
+        vis[i][j] = true;
+
+        while(!q.isEmpty())
+        {
             Pair curr = q.poll();
+            int r = curr.row;
+            int c = curr.col;
 
-            for(int[] dir : direction){
-                int nRow = curr.row + dir[0];
-                int nCol = curr.col + dir[1];
-
-                if (nRow >= 0 && nRow < tRow && nCol >= 0 && nCol < tCol &&grid[nRow][nCol] == '1' && !visited[nRow][nCol]) {
-                    visited[nRow][nCol] = true;
-                    q.add(new Pair(nRow, nCol));
+            for(int[] d : dir)
+            {
+                int nr = r + d[0];
+                int nc = c + d[1];
+                if(nr >= 0 && nc >= 0 && nr < n && nc < m && grid[nr][nc] == '1' && !vis[nr][nc])
+                {
+                    grid[nr][nc] = '0';
+                    vis[nr][nc] = true;
+                    q.add(new Pair(nr,nc));
                 }
-            }    
-        }      
+            }
+        }
     }
 }
