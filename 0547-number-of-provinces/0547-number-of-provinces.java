@@ -1,43 +1,35 @@
 class Solution {
-    class DSU{
-        int[] parent;
-        DSU(int n){
-            parent = new int[n];
-            for(int i = 0; i < n; i++){
-                parent[i] = i;
-            }
-        }
-        int find(int x){
-            if(parent[x]!=x){
-                parent[x] = find(parent[x]);
-            }
-            return parent[x];
-        }
-        void union(int a , int b){
-            int pa = find(a);
-            int pb = find(b);
-            if(pa == pb) return;
-            parent[pb] = pa; 
-        }
-    }
     public int findCircleNum(int[][] isConnected) {
         int n = isConnected.length;
+        boolean[] vis = new boolean[n];
+        int c = 0;
+        for(int i = 0; i < n; i++)
+        {
+            if(vis[i] != true)
+            {
+                c++;
+                bfs(isConnected,vis,i);
+            }
+        }
+        return c;
+    }
 
-        DSU ans = new DSU(n);
-
-        for(int i = 0; i < n; i++){
-            for(int j = i+1; j < n; j++){
-                if(isConnected[i][j] == 1){
-                    ans.union(i,j);
+    public void bfs(int[][] isConnected, boolean[] vis, int i)
+    {
+        Queue <Integer> q = new LinkedList<>();
+        q.add(i);
+        vis[i] = true;
+        while(!q.isEmpty())
+        {
+            int curr = q.poll();
+            for(int nbr = 0; nbr < isConnected.length; nbr++)
+            {
+                if(isConnected[curr][nbr] == 1 && vis[nbr] == false)
+                {
+                    q.add(nbr);
+                    vis[nbr] = true;
                 }
             }
         }
-        int count = 0;
-        for(int i = 0; i < n; i++){
-            if(ans.find(i) == i){
-                count++;
-            }
-        }
-        return count;
-    }    
+    }
 }
