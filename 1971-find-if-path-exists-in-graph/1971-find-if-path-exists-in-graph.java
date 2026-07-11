@@ -1,28 +1,44 @@
 class Solution {
     public boolean validPath(int n, int[][] edges, int source, int destination) {
-        ArrayList<ArrayList<Integer>> result = new ArrayList<>();
-        for(int i = 0; i < n; i++){
-            result.add(new ArrayList<>());
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+        for(int i = 0; i < n; i++)
+        {
+            adj.add(new ArrayList<>());
         }
-        for(int []edge : edges){
-            result.get(edge[0]).add(edge[1]);
-            result.get(edge[1]).add(edge[0]);
+        for(int[] e : edges)
+        {
+            int u = e[0];
+            int v = e[1];
+            adj.get(u).add(v);
+            adj.get(v).add(u);
         }
-        boolean[] visited = new boolean[n];
-        return dfs(source , destination, result, visited);
+        return bfs(source,destination,adj);
     }
-    public boolean dfs(int node, int dest, ArrayList<ArrayList<Integer>> adj,boolean[] visited){
-        if(node == dest){
-            return true;
-        }
-        visited[node] = true;
-        for(int nbr : adj.get(node)){
-            if(visited[nbr] == false){
-                if(dfs(nbr, dest, adj, visited)){
-                    return true;
+
+    public boolean bfs( int s, int t, ArrayList<ArrayList<Integer>> adj)
+    {
+        Queue<Integer> q = new LinkedList<>();
+        boolean[] vis = new boolean[adj.size()];
+        q.add(s);
+        vis[s] = true;
+        while(!q.isEmpty())
+        {
+            int curr = q.poll();
+            if(curr == t) return true;
+
+            for(int nbr : adj.get(curr))
+            {
+                if(vis[nbr] == false)
+                {
+                    vis[nbr] = true;
+                    q.add(nbr);
                 }
             }
         }
         return false;
+        
+        
+
     }
+    
 }
