@@ -15,7 +15,7 @@ class Solution {
         }
 
         Queue<Integer> q =new LinkedList<>();
-        List<Integer> ans = new ArrayList<>();
+        ArrayList<Integer> ans = new ArrayList<>();
 
         for(int i =0; i < n; i++){
             if(inDeg[i] == 0){
