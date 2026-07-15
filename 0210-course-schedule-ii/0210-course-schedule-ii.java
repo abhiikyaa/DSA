@@ -1,43 +1,43 @@
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
-        ArrayList<ArrayList<Integer>> g = new ArrayList<>();
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+        for(int i = 0; i < numCourses; i++)
+        {
+            adj.add(new ArrayList<>());
+        }
+        
         int[] inDeg = new int[numCourses];
-        for(int i = 0; i < numCourses; i++){
-            g.add(new ArrayList<>());
+        for(int[] e : prerequisites)
+        {
+            int u = e[0];
+            int v = e[1];
+            adj.get(v).add(u);
+            inDeg[u]++;
         }
-
-        for(int[] edge : prerequisites){
-            int c = edge[0];
-            int p = edge[1];
-            g.get(p).add(c);
-            inDeg[c]++;
-        }
+        
+        return bfs(adj,numCourses,inDeg);
+    }
+    public int[] bfs(ArrayList<ArrayList<Integer>> adj,int numCourses, int[] inDeg)
+    {
         Queue <Integer> q = new LinkedList<>();
-        for(int i = 0; i < numCourses; i++){
-            if(inDeg[i] == 0){
-                q.add(i);
-            }
+        for(int i = 0; i < numCourses; i++)
+        {
+            if(inDeg[i] == 0) q.add(i);
         }
-        int[] order = new int[numCourses];
-        int count = 0;
-        while(!q.isEmpty()){
-            int node = q.poll();
-            order[count] = node;
-            count++;
-
-            for(int nbr : g.get(node)){
+        int[] ans = new int[numCourses];
+        int cnt = 0;
+        while(!q.isEmpty())
+        {
+            int curr = q.poll();
+            ans[cnt] = curr;
+            cnt++;
+            for(int nbr : adj.get(curr))
+            {
                 inDeg[nbr]--;
-                if(inDeg[nbr] == 0){
-                    q.add(nbr);
-                }
+                if(inDeg[nbr] == 0) q.add(nbr);
             }
-
         }
-        if( count == numCourses){
-            return order;
-        }
-        else{
-            return new int[0];
-        }
+        if(cnt == numCourses) return ans;
+        else return new int[0];
     }
 }
