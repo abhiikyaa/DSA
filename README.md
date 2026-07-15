@@ -158,6 +158,7 @@
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/abhiikyaa/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1980-find-unique-binary-string](https://github.com/abhiikyaa/DSA/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhiikyaa/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2050-parallel-courses-iii](https://github.com/abhiikyaa/DSA/tree/master/2050-parallel-courses-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/abhiikyaa/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abhiikyaa/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2239-find-closest-number-to-zero](https://github.com/abhiikyaa/DSA/tree/master/2239-find-closest-number-to-zero) |
@@ -331,6 +332,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhiikyaa/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhiikyaa/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/abhiikyaa/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [2050-parallel-courses-iii](https://github.com/abhiikyaa/DSA/tree/master/2050-parallel-courses-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/abhiikyaa/DSA/tree/master/2054-two-best-non-overlapping-events) |
 ## String
 |  |
@@ -759,6 +761,7 @@
 | [1791-find-center-of-star-graph](https://github.com/abhiikyaa/DSA/tree/master/1791-find-center-of-star-graph) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/abhiikyaa/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhiikyaa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2050-parallel-courses-iii](https://github.com/abhiikyaa/DSA/tree/master/2050-parallel-courses-iii) |
 | [2092-find-all-people-with-secret](https://github.com/abhiikyaa/DSA/tree/master/2092-find-all-people-with-secret) |
 ## Trie
 |  |
@@ -772,6 +775,7 @@
 | [0210-course-schedule-ii](https://github.com/abhiikyaa/DSA/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/abhiikyaa/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/abhiikyaa/DSA/tree/master/1462-course-schedule-iv) |
+| [2050-parallel-courses-iii](https://github.com/abhiikyaa/DSA/tree/master/2050-parallel-courses-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
