@@ -1,57 +1,62 @@
 class Solution {
-    class Pair{
+    class Pair
+    {
         int node;
         int dist;
-        Pair(int node, int dist){
+        Pair(int node, int dist)
+        {
             this.node = node;
             this.dist = dist;
         }
     }
-    public int networkDelayTime(int[][] times, int n, int k) {
-        int m = times.length;
-
+    public int networkDelayTime(int[][] times, int n, int k) 
+    {
         ArrayList<ArrayList<Pair>> adj = new ArrayList<>();
-        for(int i = 0; i <= n; i++){
+        for(int i = 0; i <= n; i++)
+        {
             adj.add(new ArrayList<>());
-        }
+        }   
 
-        for(int[] e : times){
-            int u = e[0];
-            int v = e[1];
-            int w = e[2];
-
+        for(int[] t : times)
+        {
+            int u = t[0];
+            int v = t[1];
+            int w = t[2];
             adj.get(u).add(new Pair(v,w));
         }
-        PriorityQueue<Pair> pq = new PriorityQueue<>((a,b) -> Integer.compare(a.dist, b.dist));
-        int[] ans = new int [n+1];
-        Arrays.fill(ans, Integer.MAX_VALUE);
-        ans[k] = 0;
+        int[] dist = new int[n+1];
+        Arrays.fill(dist,Integer.MAX_VALUE);
 
-        pq.offer(new Pair(k,0));
-        while(!pq.isEmpty()){
+        PriorityQueue<Pair> pq = new PriorityQueue<>((a,b)-> a.dist - b.dist);
+        pq.add(new Pair(k,0));
+        dist[k] = 0;
+
+        while(!pq.isEmpty())
+        {
             Pair curr = pq.poll();
-            int d = curr.dist;
             int u = curr.node;
+            int d = curr.dist;
 
-            if(d > ans[u]) continue;
+            if(d > dist[u]) continue;
 
-            for(Pair nbr : adj.get(u)){
-                int nn = nbr.node;
-                int nd = d + nbr.dist;
+            for(Pair nbr : adj.get(u))
+            {
+                int v = nbr.node;
+                int wt = nbr.dist;
 
-                if(ans[nn] > nd){
-                    ans[nn] = nd;
-                    pq.offer(new Pair(nn , nd));
+                if(dist[v] > dist[u] + wt)
+                {
+                    dist[v] = dist[u]  + wt;
+                    pq.add(new Pair(v,dist[v]));
                 }
             }
         }
-        int time = -1;
-        for(int  i = 1; i <= n; i++){
-            if(ans[i] == Integer.MAX_VALUE){
-                return -1;
-            }
-            time = Math.max(time, ans[i]);
+        int t = -1;
+        for(int i = 1; i <= n; i++)
+        {
+            if(dist[i] == Integer.MAX_VALUE) return -1;
+            else t = Math.max(t,dist[i]);
         }
-        return time;
+        return t;
     }
 }
