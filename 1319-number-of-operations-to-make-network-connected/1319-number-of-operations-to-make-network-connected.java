@@ -1,51 +1,63 @@
 class Solution {
-    class DSU{
+    class DSU
+    {
         int[] parent;
         int[] rank;
-        DSU(int n){
+        DSU(int n)
+        {
             parent = new int[n];
             rank = new int[n];
-            for(int i = 0; i < n; i++){
+
+            for(int i = 0; i < n; i++)
+            {
                 parent[i] = i;
+                rank[i] = i;
             }
         }
-        int find(int x){
-            if(parent[x] != x){
+
+        int find(int x)
+        {
+            if(parent[x] != x)
+            {
                 parent[x] = find(parent[x]);
             }
             return parent[x];
         }
-        void union (int a , int b){
+        void union(int a, int b)
+        {
             int pa = find(a);
             int pb = find(b);
             if(pa == pb) return;
-            if(rank[pa] > rank[pb]){
-                parent[pb] = pa;
-            }
-            else if(rank[pa] < rank[pb]){
-                parent[pa] = pb;
-            }
-            else{
+            if(rank[pa] < rank[pb]) parent[pa] = pb;
+            else if(rank[pb] < rank[pa]) parent[pb] = pa;
+            else {
                 parent[pb] = pa;
                 rank[pa]++;
             }
         }
     }
-    public int makeConnected(int n, int[][] connections) {
+    public int makeConnected(int n, int[][] connections) 
+    {
         int m = connections.length;
-        DSU ans = new DSU(n);
-        if( m < n-1) return -1;
+        if(m < n-1) return -1;
+        DSU dsu = new DSU(n);
+        int c = 0;
 
-        for(int[] e : connections){
-            ans.union(e[0],e[1]);
+        for (int[] e : connections)
+        {
+            int u = e[0];
+            int v = e[1];
+            dsu.union(u,v);
         }
-        int count = 0;
 
-        for(int i = 0; i < n; i++){
-            if(ans.find(i) == i){
-                count++;
+        for(int i = 0; i < n; i++)
+        {
+            if(dsu.find(i) == i)
+            {
+                c++;
             }
         }
-        return count-1;
+
+        return c-1;   
     }
 }
