@@ -1,35 +1,44 @@
 class Solution {
-    class DSU{
+    class DSU
+    {
         int[] parent;
-        DSU(int n){
+        DSU(int n)
+        {
             parent = new int[n];
-            for(int i = 0; i < n; i++){
+            for(int i = 0; i < n; i++)
+            {
                 parent[i] = i;
             }
         }
-        int find(int x){
-            if(parent[x]!=x){
+        int find(int x)
+        {
+            if(parent[x] != x)
+            {
                 parent[x] = find(parent[x]);
             }
             return parent[x];
         }
-        boolean union(int a, int b){
+
+        void union(int a, int b)
+        {
             int pa = find(a);
             int pb = find(b);
-            if(pa == pb) return false;
+            if(pa == pb) return;
             parent[pb] = pa;
-            return true;
         }
     }
-    public int[] findRedundantConnection(int[][] edges) {
+    public int[] findRedundantConnection(int[][] edges) 
+    {
         int n = edges.length;
-        DSU ans = new DSU(n+1);
+        DSU dsu = new DSU(n+1);
 
-        for(int[] e : edges){
-            if(!ans.union(e[0],e[1])){
-                return e;
-            }
+        for(int[] e : edges)
+        {
+            int u = e[0];
+            int v = e[1];
+            if(dsu.find(u) == dsu.find(v)) return e;
+            dsu.union(u,v);
         }
-        return new int[0];
+        return new int[0];  
     }
 }
