@@ -112,6 +112,7 @@
 | [0682-baseball-game](https://github.com/abhiikyaa/DSA/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/abhiikyaa/DSA/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhiikyaa/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0704-binary-search](https://github.com/abhiikyaa/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/abhiikyaa/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/abhiikyaa/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/abhiikyaa/DSA/tree/master/0735-asteroid-collision) |
@@ -253,6 +254,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhiikyaa/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/abhiikyaa/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/abhiikyaa/DSA/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/abhiikyaa/DSA/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/abhiikyaa/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhiikyaa/DSA/tree/master/1004-max-consecutive-ones-iii) |
