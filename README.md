@@ -147,6 +147,7 @@
 | [1162-as-far-from-land-as-possible](https://github.com/abhiikyaa/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/abhiikyaa/DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/abhiikyaa/DSA/tree/master/1267-count-servers-that-communicate) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abhiikyaa/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/abhiikyaa/DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1306-jump-game-iii](https://github.com/abhiikyaa/DSA/tree/master/1306-jump-game-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/abhiikyaa/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -271,6 +272,7 @@
 | [0875-koko-eating-bananas](https://github.com/abhiikyaa/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhiikyaa/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhiikyaa/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abhiikyaa/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhiikyaa/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhiikyaa/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/abhiikyaa/DSA/tree/master/1539-kth-missing-positive-number) |
