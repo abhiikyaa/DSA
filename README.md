@@ -37,6 +37,7 @@
 | [0231-power-of-two](https://github.com/abhiikyaa/DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/abhiikyaa/DSA/tree/master/0263-ugly-number) |
 | [0343-integer-break](https://github.com/abhiikyaa/DSA/tree/master/0343-integer-break) |
+| [0367-valid-perfect-square](https://github.com/abhiikyaa/DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/abhiikyaa/DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/abhiikyaa/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhiikyaa/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -263,6 +264,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhiikyaa/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/abhiikyaa/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/abhiikyaa/DSA/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhiikyaa/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/abhiikyaa/DSA/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/abhiikyaa/DSA/tree/master/0778-swim-in-rising-water) |
