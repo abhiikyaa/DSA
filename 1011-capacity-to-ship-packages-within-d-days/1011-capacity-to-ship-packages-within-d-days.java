@@ -1,35 +1,51 @@
 class Solution {
-    public int shipWithinDays(int[] weights, int days) {
-        int s = 1;
-        int e = 0;
+    public int shipWithinDays(int[] weights, int days) 
+    {
+        int n = weights.length;
+        int l = 0;
+        int r = 0;
         int ans = 0;
-        for(int i = 0; i < weights.length; i++){
-            e += weights[i];
+        for(int i = 0; i <n; i++)
+        {
+            l = Math.max(weights[i],l);
+        }
+        for(int i = 0; i < n; i++)
+        {
+            r += weights[i];
         }
 
-        while(s <= e){
-            int m = s + (e-s)/2;
-
-            if(isPossible(weights, days, m)){
-                ans = m;
-                e = m -1;
+        while(l<=r)
+        {
+            int mid = l+(r-l)/2;
+            if(isValid(mid,weights,days))
+            {
+                ans = mid;
+                r = mid-1;
             }
-            else{
-                s = m + 1;
+            else
+            {
+                l = mid+1;
             }
         }
         return ans;
     }
-    private boolean isPossible(int[] weights, int days, int c){
+
+    public boolean isValid(int mid, int[] arr, int days)
+    {
+        int n = arr.length;
+        int twt = 0;
         int d = 1;
-        int l = 0;
-        for(int w : weights){
-            if(w > c) return false;
-            if(l + w > c){
-                d++;
-                l = 0;
+        for(int i = 0; i < n; i++)
+        {
+            if(twt + arr[i] <= mid)
+            {
+                twt += arr[i];
             }
-            l += w;
+            else
+            {
+                d++;
+                twt = arr[i];
+            }
         }
         return d <= days;
     }
