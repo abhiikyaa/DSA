@@ -97,6 +97,7 @@
 | [0307-range-sum-query-mutable](https://github.com/abhiikyaa/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/abhiikyaa/DSA/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/abhiikyaa/DSA/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/abhiikyaa/DSA/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/abhiikyaa/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhiikyaa/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -270,6 +271,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/abhiikyaa/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/abhiikyaa/DSA/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/abhiikyaa/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhiikyaa/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/abhiikyaa/DSA/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/abhiikyaa/DSA/tree/master/0778-swim-in-rising-water) |
@@ -342,6 +344,7 @@
 | [0322-coin-change](https://github.com/abhiikyaa/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/abhiikyaa/DSA/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/abhiikyaa/DSA/tree/master/0343-integer-break) |
+| [0410-split-array-largest-sum](https://github.com/abhiikyaa/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/abhiikyaa/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/abhiikyaa/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/abhiikyaa/DSA/tree/master/0494-target-sum) |
@@ -503,6 +506,7 @@
 | [0238-product-of-array-except-self](https://github.com/abhiikyaa/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/abhiikyaa/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhiikyaa/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/abhiikyaa/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/abhiikyaa/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/abhiikyaa/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhiikyaa/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -572,6 +576,7 @@
 | [0011-container-with-most-water](https://github.com/abhiikyaa/DSA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/abhiikyaa/DSA/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhiikyaa/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/abhiikyaa/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/abhiikyaa/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/abhiikyaa/DSA/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/abhiikyaa/DSA/tree/master/0621-task-scheduler) |
