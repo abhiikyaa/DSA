@@ -40,6 +40,7 @@
 | [0367-valid-perfect-square](https://github.com/abhiikyaa/DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/abhiikyaa/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhiikyaa/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/abhiikyaa/DSA/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/abhiikyaa/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhiikyaa/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhiikyaa/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -132,6 +133,7 @@
 | [0851-loud-and-rich](https://github.com/abhiikyaa/DSA/tree/master/0851-loud-and-rich) |
 | [0860-lemonade-change](https://github.com/abhiikyaa/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/abhiikyaa/DSA/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/abhiikyaa/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/abhiikyaa/DSA/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/abhiikyaa/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/abhiikyaa/DSA/tree/master/0934-shortest-bridge) |
@@ -359,6 +361,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/abhiikyaa/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhiikyaa/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/abhiikyaa/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0877-stone-game](https://github.com/abhiikyaa/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/abhiikyaa/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/abhiikyaa/DSA/tree/master/1035-uncrossed-lines) |
 | [1049-last-stone-weight-ii](https://github.com/abhiikyaa/DSA/tree/master/1049-last-stone-weight-ii) |
@@ -899,4 +902,8 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/abhiikyaa/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/abhiikyaa/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
