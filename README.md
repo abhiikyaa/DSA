@@ -43,6 +43,7 @@
 | [0877-stone-game](https://github.com/abhiikyaa/DSA/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/abhiikyaa/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhiikyaa/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/abhiikyaa/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhiikyaa/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhiikyaa/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
@@ -913,4 +914,8 @@
 |  |
 | ------- |
 | [1626-best-team-with-no-conflicts](https://github.com/abhiikyaa/DSA/tree/master/1626-best-team-with-no-conflicts) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/abhiikyaa/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
