@@ -164,6 +164,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhiikyaa/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1514-path-with-maximum-probability](https://github.com/abhiikyaa/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1539-kth-missing-positive-number](https://github.com/abhiikyaa/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/abhiikyaa/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/abhiikyaa/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/abhiikyaa/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhiikyaa/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -310,6 +311,7 @@
 | [0767-reorganize-string](https://github.com/abhiikyaa/DSA/tree/master/0767-reorganize-string) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/abhiikyaa/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhiikyaa/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/abhiikyaa/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/abhiikyaa/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/abhiikyaa/DSA/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhiikyaa/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -375,6 +377,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhiikyaa/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhiikyaa/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhiikyaa/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/abhiikyaa/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhiikyaa/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1626-best-team-with-no-conflicts](https://github.com/abhiikyaa/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/abhiikyaa/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
