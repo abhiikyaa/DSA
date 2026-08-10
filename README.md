@@ -43,6 +43,7 @@
 | [0877-stone-game](https://github.com/abhiikyaa/DSA/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/abhiikyaa/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhiikyaa/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhiikyaa/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhiikyaa/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhiikyaa/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhiikyaa/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -413,6 +414,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhiikyaa/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/abhiikyaa/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/abhiikyaa/DSA/tree/master/1980-find-unique-binary-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhiikyaa/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/abhiikyaa/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Simulation
 |  |
@@ -596,6 +598,7 @@
 | [0860-lemonade-change](https://github.com/abhiikyaa/DSA/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhiikyaa/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abhiikyaa/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhiikyaa/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Tree
 |  |
 | ------- |
