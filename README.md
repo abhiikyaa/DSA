@@ -42,6 +42,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/abhiikyaa/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/abhiikyaa/DSA/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/abhiikyaa/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhiikyaa/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhiikyaa/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhiikyaa/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhiikyaa/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -511,6 +512,7 @@
 | [0338-counting-bits](https://github.com/abhiikyaa/DSA/tree/master/0338-counting-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhiikyaa/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/abhiikyaa/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhiikyaa/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Prefix Sum
 |  |
