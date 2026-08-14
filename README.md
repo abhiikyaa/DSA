@@ -776,6 +776,7 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/abhiikyaa/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/abhiikyaa/DSA/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/abhiikyaa/DSA/tree/master/1693-daily-leads-and-partners) |
+| [1757-recyclable-and-low-fat-products](https://github.com/abhiikyaa/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/abhiikyaa/DSA/tree/master/1873-calculate-special-bonus) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/abhiikyaa/DSA/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Combinatorics
