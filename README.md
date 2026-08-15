@@ -203,6 +203,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhiikyaa/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhiikyaa/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3477-fruits-into-baskets-ii](https://github.com/abhiikyaa/DSA/tree/master/3477-fruits-into-baskets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhiikyaa/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -529,6 +530,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/abhiikyaa/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhiikyaa/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhiikyaa/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
 |  |
 | ------- |
