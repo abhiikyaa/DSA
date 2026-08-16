@@ -949,4 +949,12 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhiikyaa/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/abhiikyaa/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/abhiikyaa/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
