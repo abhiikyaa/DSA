@@ -3,43 +3,54 @@ class Solution {
 
         int ans = 2 * n;
 
-        Arrays.sort(reservedSeats, (a, b) -> a[0] - b[0]);
+        HashMap<Integer, boolean[]> map = new HashMap<>();
 
-        int i = 0;
+        for (int[] s : reservedSeats) {
 
-        while (i < reservedSeats.length) {
+            int r = s[0];
+            int c = s[1];
 
-            int row = reservedSeats[i][0];
-            int mask = 0;
-
-            // Store reserved seats of this row
-            while (i < reservedSeats.length &&
-                   reservedSeats[i][0] == row) {
-
-                int seat = reservedSeats[i][1];
-                mask |= (1 << seat);
-
-                i++;
+            if (!map.containsKey(r)) {
+                map.put(r, new boolean[11]);
             }
 
-            // 2,3,4,5
-            int first = (1 << 2) | (1 << 3) | (1 << 4) | (1 << 5);
+            map.get(r)[c] = true;
+        }
 
-            // 4,5,6,7
-            int second = (1 << 4) | (1 << 5) | (1 << 6) | (1 << 7);
+        for (int r : map.keySet()) {
 
-            // 6,7,8,9
-            int third = (1 << 6) | (1 << 7) | (1 << 8) | (1 << 9);
+            boolean[] vis = map.get(r);
 
-            boolean Fsec = (mask & first) == 0;
-            boolean Ssec = (mask & second) == 0;
-            boolean Tsec = (mask & third) == 0;
+            boolean Fsec = true;
+            boolean Ssec = true;
+            boolean Tsec = true;
+
+            for (int j = 2; j <= 5; j++) {
+                if (vis[j]) {
+                    Fsec = false;
+                    break;
+                }
+            }
+
+            for (int j = 4; j <= 7; j++) {
+                if (vis[j]) {
+                    Ssec = false;
+                    break;
+                }
+            }
+
+            for (int j = 6; j <= 9; j++) {
+                if (vis[j]) {
+                    Tsec = false;
+                    break;
+                }
+            }
 
             if (Fsec && Tsec) {
-                // 2 families
+                
             }
             else if (Fsec || Ssec || Tsec) {
-                ans--;
+                ans -= 1;
             }
             else {
                 ans -= 2;
