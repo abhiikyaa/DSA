@@ -164,6 +164,7 @@
 | [1306-jump-game-iii](https://github.com/abhiikyaa/DSA/tree/master/1306-jump-game-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/abhiikyaa/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhiikyaa/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/abhiikyaa/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhiikyaa/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/abhiikyaa/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhiikyaa/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -237,6 +238,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/abhiikyaa/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhiikyaa/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/abhiikyaa/DSA/tree/master/0997-find-the-town-judge) |
+| [1386-cinema-seat-allocation](https://github.com/abhiikyaa/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1695-maximum-erasure-value](https://github.com/abhiikyaa/DSA/tree/master/1695-maximum-erasure-value) |
 | [1980-find-unique-binary-string](https://github.com/abhiikyaa/DSA/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/abhiikyaa/DSA/tree/master/2540-minimum-common-value) |
@@ -535,6 +537,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhiikyaa/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/abhiikyaa/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhiikyaa/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1386-cinema-seat-allocation](https://github.com/abhiikyaa/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhiikyaa/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
@@ -622,6 +625,7 @@
 | [0767-reorganize-string](https://github.com/abhiikyaa/DSA/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/abhiikyaa/DSA/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhiikyaa/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1386-cinema-seat-allocation](https://github.com/abhiikyaa/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abhiikyaa/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhiikyaa/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Tree
