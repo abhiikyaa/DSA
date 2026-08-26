@@ -22,6 +22,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/abhiikyaa/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhiikyaa/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/abhiikyaa/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/abhiikyaa/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0234-palindrome-linked-list](https://github.com/abhiikyaa/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/abhiikyaa/DSA/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/abhiikyaa/DSA/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/abhiikyaa/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -508,6 +510,7 @@
 | [0735-asteroid-collision](https://github.com/abhiikyaa/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhiikyaa/DSA/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhiikyaa/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2487-remove-nodes-from-linked-list](https://github.com/abhiikyaa/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -953,6 +956,7 @@
 | [0042-trapping-rain-water](https://github.com/abhiikyaa/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/abhiikyaa/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/abhiikyaa/DSA/tree/master/0739-daily-temperatures) |
+| [2487-remove-nodes-from-linked-list](https://github.com/abhiikyaa/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Queue
 |  |
 | ------- |
