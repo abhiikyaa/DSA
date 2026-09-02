@@ -66,6 +66,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhiikyaa/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhiikyaa/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhiikyaa/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/abhiikyaa/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -226,6 +227,7 @@
 | [3477-fruits-into-baskets-ii](https://github.com/abhiikyaa/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhiikyaa/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhiikyaa/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/abhiikyaa/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
