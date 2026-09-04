@@ -253,6 +253,7 @@
 | [0242-valid-anagram](https://github.com/abhiikyaa/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhiikyaa/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhiikyaa/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhiikyaa/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhiikyaa/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhiikyaa/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -460,6 +461,7 @@
 | [0205-isomorphic-strings](https://github.com/abhiikyaa/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhiikyaa/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abhiikyaa/DSA/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhiikyaa/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/abhiikyaa/DSA/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhiikyaa/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/abhiikyaa/DSA/tree/master/0412-fizz-buzz) |
@@ -517,6 +519,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhiikyaa/DSA/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhiikyaa/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/abhiikyaa/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/abhiikyaa/DSA/tree/master/0767-reorganize-string) |
 | [1267-count-servers-that-communicate](https://github.com/abhiikyaa/DSA/tree/master/1267-count-servers-that-communicate) |
@@ -553,6 +556,7 @@
 | [0225-implement-stack-using-queues](https://github.com/abhiikyaa/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhiikyaa/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/abhiikyaa/DSA/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhiikyaa/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/abhiikyaa/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Merge Sort
 |  |
