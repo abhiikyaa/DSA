@@ -253,6 +253,7 @@
 | [0242-valid-anagram](https://github.com/abhiikyaa/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhiikyaa/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/abhiikyaa/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhiikyaa/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhiikyaa/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhiikyaa/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -461,6 +462,7 @@
 | [0205-isomorphic-strings](https://github.com/abhiikyaa/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhiikyaa/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abhiikyaa/DSA/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/abhiikyaa/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhiikyaa/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/abhiikyaa/DSA/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/abhiikyaa/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -519,6 +521,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhiikyaa/DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/abhiikyaa/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhiikyaa/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/abhiikyaa/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/abhiikyaa/DSA/tree/master/0767-reorganize-string) |
