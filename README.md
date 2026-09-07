@@ -432,6 +432,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/abhiikyaa/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0877-stone-game](https://github.com/abhiikyaa/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/abhiikyaa/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/abhiikyaa/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1035-uncrossed-lines](https://github.com/abhiikyaa/DSA/tree/master/1035-uncrossed-lines) |
 | [1049-last-stone-weight-ii](https://github.com/abhiikyaa/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/abhiikyaa/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -479,6 +480,7 @@
 | [0767-reorganize-string](https://github.com/abhiikyaa/DSA/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/abhiikyaa/DSA/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhiikyaa/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0940-distinct-subsequences-ii](https://github.com/abhiikyaa/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/abhiikyaa/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1143-longest-common-subsequence](https://github.com/abhiikyaa/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhiikyaa/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
