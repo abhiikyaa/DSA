@@ -307,6 +307,7 @@
 | [0234-palindrome-linked-list](https://github.com/abhiikyaa/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/abhiikyaa/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/abhiikyaa/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/abhiikyaa/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiikyaa/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhiikyaa/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/abhiikyaa/DSA/tree/master/0567-permutation-in-string) |
@@ -469,6 +470,7 @@
 | [0205-isomorphic-strings](https://github.com/abhiikyaa/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhiikyaa/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abhiikyaa/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/abhiikyaa/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/abhiikyaa/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhiikyaa/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/abhiikyaa/DSA/tree/master/0394-decode-string) |
