@@ -719,6 +719,7 @@
 | [0617-merge-two-binary-trees](https://github.com/abhiikyaa/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhiikyaa/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -769,6 +770,7 @@
 | [1905-count-sub-islands](https://github.com/abhiikyaa/DSA/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhiikyaa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/abhiikyaa/DSA/tree/master/2092-find-all-people-with-secret) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhiikyaa/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abhiikyaa/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/abhiikyaa/DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -789,6 +791,7 @@
 | [0617-merge-two-binary-trees](https://github.com/abhiikyaa/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhiikyaa/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhiikyaa/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union Find
 |  |
 | ------- |
