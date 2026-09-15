@@ -326,6 +326,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhiikyaa/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/abhiikyaa/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhiikyaa/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhiikyaa/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/abhiikyaa/DSA/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
@@ -459,6 +460,7 @@
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abhiikyaa/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/abhiikyaa/DSA/tree/master/2050-parallel-courses-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/abhiikyaa/DSA/tree/master/2054-two-best-non-overlapping-events) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhiikyaa/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
@@ -502,6 +504,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/abhiikyaa/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/abhiikyaa/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1980-find-unique-binary-string](https://github.com/abhiikyaa/DSA/tree/master/1980-find-unique-binary-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhiikyaa/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhiikyaa/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/abhiikyaa/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhiikyaa/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -706,6 +709,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhiikyaa/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/abhiikyaa/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abhiikyaa/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhiikyaa/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhiikyaa/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Tree
 |  |
