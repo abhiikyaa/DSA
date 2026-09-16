@@ -63,6 +63,7 @@
 | [0877-stone-game](https://github.com/abhiikyaa/DSA/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/abhiikyaa/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhiikyaa/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhiikyaa/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/abhiikyaa/DSA/tree/master/1872-stone-game-viii) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/abhiikyaa/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhiikyaa/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -454,6 +455,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhiikyaa/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/abhiikyaa/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/abhiikyaa/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhiikyaa/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1626-best-team-with-no-conflicts](https://github.com/abhiikyaa/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [1872-stone-game-viii](https://github.com/abhiikyaa/DSA/tree/master/1872-stone-game-viii) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/abhiikyaa/DSA/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -631,6 +633,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhiikyaa/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhiikyaa/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/abhiikyaa/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhiikyaa/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/abhiikyaa/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/abhiikyaa/DSA/tree/master/1872-stone-game-viii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhiikyaa/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -897,6 +900,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/abhiikyaa/DSA/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abhiikyaa/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Counting Sort
 |  |
 | ------- |
