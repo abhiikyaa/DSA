@@ -69,6 +69,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhiikyaa/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhiikyaa/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhiikyaa/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3524-find-x-value-of-array-i](https://github.com/abhiikyaa/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhiikyaa/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/abhiikyaa/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhiikyaa/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -235,6 +236,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhiikyaa/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/abhiikyaa/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhiikyaa/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/abhiikyaa/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhiikyaa/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhiikyaa/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhiikyaa/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -469,6 +471,7 @@
 | [2050-parallel-courses-iii](https://github.com/abhiikyaa/DSA/tree/master/2050-parallel-courses-iii) |
 | [2054-two-best-non-overlapping-events](https://github.com/abhiikyaa/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhiikyaa/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3524-find-x-value-of-array-i](https://github.com/abhiikyaa/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## String
 |  |
 | ------- |
